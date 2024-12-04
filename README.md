@@ -1,1 +1,2 @@
-# Static-Website-hosting
+# Static Website hosting
+
