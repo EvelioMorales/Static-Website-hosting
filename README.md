@@ -170,7 +170,7 @@ http://bucket-name.s3-website-region.amazonaws.com
 
 This URL allows users to view the static website hosted from the S3 bucket.
 
-![S3 Bucket Endpoint]([assets/03-bucket-endpoint.png](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/assets/03_bucket_endpoint_screenshot.png))
+![S3 Bucket Endpoint](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/assets/03_bucket_endpoint_screenshot.png)
 
 ---
 
@@ -187,7 +187,7 @@ This happened because the S3 bucket content was still private.
 
 By default, Amazon S3 does not automatically make uploaded files public. This is a security feature that helps protect files from unauthorized access.
 
-![403 Forbidden Error]([assets/04-error-403.png](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/assets/04_403_forbidden_screenshot.png))
+![403 Forbidden Error](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/assets/04_403_forbidden_screenshot.png)
 
 ---
 
@@ -215,7 +215,7 @@ To fix this:
 
 After correcting the folder name, the website displayed successfully.
 
-![Website Hosted Successfully]([assets/05-success-website.png](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/assets/05_success_website_screenshot.png))
+![Website Hosted Successfully](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/assets/05_success_website_screenshot.png)
 
 ---
 
